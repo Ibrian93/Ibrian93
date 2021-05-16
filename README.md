@@ -3,7 +3,7 @@
 <!--
 **Ibrian93/Ibrian93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-I will tell you shortly about me:
+I will tell you shortly something about me:
 
 - 🔭 I’m currently working on my Automation Portfolio (using python 🐍)
 - 🌱 I’m currently learning python in a in-depth level 
