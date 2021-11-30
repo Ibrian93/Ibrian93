@@ -5,8 +5,8 @@
 -->
 I will tell you shortly something about me:
 
-- 🔭 I’m currently working on my Automation Portfolio (using python 🐍)
-- 🌱 I’m currently learning python in a in-depth level 
+- 🔭 I’m currently working on my Automation Portfolio (using playwright)
+- 🌱 I’m currently learning Typescript in a in-depth level 
 - 💬 Ask me about anything! I will be glad to either answer you or find a solution 😄
 - 📫 You can reach me in:
   - Twitter: https://twitter.com/ibrian93
