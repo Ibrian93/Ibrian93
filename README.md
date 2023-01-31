@@ -5,7 +5,7 @@
 -->
 I will tell you shortly something about me:
 
-- 🔭 I’m currently working on my Automation Portfolio (using playwright)
+- 🔭 I’m currently working on my Automation Portfolio (using Cypress)
 - 🌱 I’m currently learning Typescript in a in-depth level 
 - 💬 Ask me about anything! I will be glad to either answer you or find a solution 😄
 - 📫 You can reach me in:
