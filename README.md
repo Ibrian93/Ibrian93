@@ -1,30 +1,35 @@
 # Hi, I'm Brian 👋
 
-Data Engineer based in Switzerland, with a background in Mathematics and Computational Engineering.
+I'm a Data Engineer based in Switzerland, with a background in Mathematics and Computational Engineering.
 
-My professional experience is mainly in **Data & Analytics Engineering**, working with Python, SQL, dbt and Snowflake to build data products, transformation pipelines and reporting datasets.
+I mainly work with **Python, SQL, dbt and Snowflake**, and I'm currently moving deeper into **Machine Learning Engineering**.
 
-I'm currently expanding that experience toward **Machine Learning Engineering**, with a particular interest in building ML systems end-to-end rather than focusing only on model experimentation.
+### Currently working on
 
-## What I'm working on
+🛠️ **[Workplace Severe Injury Intelligence](https://github.com/Ibrian93/incident-risk-prediction)**
 
-### 🏗️ Workplace Severe Injury Intelligence
-
-An end-to-end Data + ML Engineering project using public OSHA workplace injury data.
-
-Current pipeline:
+A Data + ML Engineering project using public OSHA injury data.
 
 ```text
-OSHA data
-    ↓
-Python ingestion
-    ↓
-DuckDB
-    ↓
-dbt
-    ↓
-Data quality & modelling
-    ↓
-ML-ready dataset
-    ↓
-Machine Learning
+OSHA → Python → DuckDB → dbt → ML dataset → Machine Learning
+```
+
+I'm using it to bring together what I've worked with professionally in Data Engineering and what I studied in Machine Learning and applied mathematics.
+
+### Some of the tools I work with
+
+`Python` · `SQL` · `dbt` · `Snowflake` · `DuckDB` · `Docker` · `Git` · `Pandas` · `scikit-learn`
+
+### Background
+
+🎓 MSc Computational & Mathematical Engineering  
+🎓 BSc Mathematics
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/brianicochea/) · `ibrian93@gmail.com`
+
+---
+
+> *Experience is simply the name we give our mistakes.*  
+> — Oscar Wilde
