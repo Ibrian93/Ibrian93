@@ -1,15 +1,30 @@
-### Hello! Welcome to my Github repository 🥰
+# Hi, I'm Brian 👋
 
-<!--
-**Ibrian93/Ibrian93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-I will tell you shortly something about me:
+Data Engineer based in Switzerland, with a background in Mathematics and Computational Engineering.
 
-- 🔭 I’m currently working on my Data engineering Portfolio (using Python, Postresql, Docker and Airflow)
-- 🌱 I’m currently learning Python in a in-depth level (Holding a PCEP™ – Certified Entry-Level Python Programmer) 
-- 💬 Ask me about anything! I will be glad to either answer you or find a solution 😄
-- 📫 You can reach me in:
-  - Twitter: https://twitter.com/ibrian93
-  - Linkedin: https://www.linkedin.com/in/brianicochea/
-  - Email: ibrian93@gmail.com
-- 💯 Favorite quote: _Experience is simply the name we give our mistakes. - Oscar Wilde_
+My professional experience is mainly in **Data & Analytics Engineering**, working with Python, SQL, dbt and Snowflake to build data products, transformation pipelines and reporting datasets.
+
+I'm currently expanding that experience toward **Machine Learning Engineering**, with a particular interest in building ML systems end-to-end rather than focusing only on model experimentation.
+
+## What I'm working on
+
+### 🏗️ Workplace Severe Injury Intelligence
+
+An end-to-end Data + ML Engineering project using public OSHA workplace injury data.
+
+Current pipeline:
+
+```text
+OSHA data
+    ↓
+Python ingestion
+    ↓
+DuckDB
+    ↓
+dbt
+    ↓
+Data quality & modelling
+    ↓
+ML-ready dataset
+    ↓
+Machine Learning
